@@ -1,0 +1,11 @@
+
+streamlit
+fastapi
+uvicorn
+faiss-cpu
+sentence-transformers
+pymupdf
+python-multipart
+requests
+numpy
+openai
